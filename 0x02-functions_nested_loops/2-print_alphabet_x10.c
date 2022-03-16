@@ -12,7 +12,7 @@ void print_alphabet_x10(void)
 
 	counter = 0;
 
-	while (alph < 10)
+	while (counter < 10)
 	{
 		for (alph = 'a'; alph <= 'z'; alph++)
 		{
