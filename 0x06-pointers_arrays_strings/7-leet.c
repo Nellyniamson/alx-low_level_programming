@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * leet - encodes string into 1337
  * @s: pointer
