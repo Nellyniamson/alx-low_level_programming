@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * free_grid - allocates a grid
  * @grid: takes in width of grind
